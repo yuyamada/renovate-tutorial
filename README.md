@@ -1,0 +1,2 @@
+# renovate-tutorial
+renovateの使い方を色々試すためのrepository
